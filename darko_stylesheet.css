@@ -7480,9 +7480,10 @@ select {
     .site-header-desktop-primary.site-header-desktop-primary--collapsed .site-logo__btn > img:first-child:not(:only-child) {
       display: none; }
   .site-header-desktop-primary[data-header-sticky] {
-    background: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.6), transparent);
+    background: linear-gradient(rgba(4,4,4,0.9), rgba(0,0,0,0.6), transparent);
     padding-bottom: .1rem; }
     .site-header-desktop-primary[data-header-sticky].site-header-desktop-primary--collapsed {
+      background-color: rgba(4,4,4,0.8)
       position: fixed;
       top: 0; }
     .no-js .site-header-desktop-primary[data-header-sticky] {
