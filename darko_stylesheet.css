@@ -6610,7 +6610,7 @@ a.btn[disabled] {
   color: #FFFFFF;
   background-color: transparent;
   padding: 0.7rem 0.7rem;
-  font-size: 2rem; }
+  font-size: 0rem; }
   .ada-motion-toggle-btns:hover {
     color: #E84A38; }
   .ada-motion-toggle-btns:active {
