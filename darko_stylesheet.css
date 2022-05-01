@@ -6495,8 +6495,8 @@ a.btn[disabled] {
     border-color: #F7F7F7; }
   .btn-brand-alt:focus, .btn-brand-alt.focus {
     color: #1a1a1a;
-    background-color: #F7F7F7;
-    border-color: #F7F7F7; }
+    background-color: #E84A38;
+    border-color: #E84A38; }
   .btn-brand-alt:active, .btn-brand-alt.active,
   .open > .btn-brand-alt.dropdown-toggle {
     color: #1a1a1a;
