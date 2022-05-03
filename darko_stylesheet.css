@@ -7972,7 +7972,7 @@ background-color: rgba(4,4,4,0.8);}
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
-  background-color: #1A1A1A;
+  background-color: transparent;
   padding: 0.9375rem 0.9375rem; }
   .nav-toggle-btn:focus, .nav-toggle-btn:hover {
     text-decoration: none; }
