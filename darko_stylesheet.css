@@ -6617,10 +6617,10 @@ a.btn[disabled] {
     color: #E84A38; }
   @media screen and (max-width: 1050px) {
     .ada-motion-toggle-btns {
-      font-size: 1.5rem; } }
+      font-size: 0rem; } }
   @media screen and (max-width: 810px) {
     .ada-motion-toggle-btns {
-      font-size: 1.2rem; } }
+      font-size: 0rem; } }
 
 .arrow-btn {
   display: inline-block;
