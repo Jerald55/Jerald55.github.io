@@ -9835,13 +9835,13 @@ a {
   /*
 * ======== MOBILE FOOTER ========
 */
-  .mobi-footer__item .btn {
+.mobi-footer__item .btn {
     padding-top: 0.75rem;
     padding-bottom: 0.75rem;
     font-size: 1rem;
     color: #F7F7F7;
-    background-color: rgb(4 4 4);
-    border-color: #f7f7f7; }
+    background-color: rgb(4, 4, 4, 0);
+    border-color: #FFFFF; }
   .mobi-footer__item .btn:hover, .mobi-footer__item .btn:active, .mobi-footer__item .btn:focus {
     color: #1a1a1a;
     background-color: #F7F7F7;
