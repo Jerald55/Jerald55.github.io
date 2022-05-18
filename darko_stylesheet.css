@@ -9645,6 +9645,9 @@ input[type=file] {
 
 body {
   background-size: 100%; }
+  
+.index-template {
+  background-image: url(https://i.imgur.com/GVhacP0.jpg); }
 
 .btn-brand.disabled:hover, .btn-brand:disabled:hover {
   background-color: #F7F7F7;
