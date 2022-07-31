@@ -8959,7 +8959,7 @@ ul.slick-track {
   .gallery--fit .slick-list,
   .gallery--fit .slick-track,
   .gallery--fit .gallery__item {
-    height: 100%; }
+    height: 82%; }
   .gallery--full .gallery__item {
     height: 20rem; }
     @media (min-width: 769px) {
