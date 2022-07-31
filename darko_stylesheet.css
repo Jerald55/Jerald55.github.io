@@ -6260,6 +6260,10 @@ body {
 body {
   font-weight: 200;
   letter-spacing: 1px;
+    background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   background-repeat: repeat;
     background-repeat-x: repeat;
     background-repeat-y: repeat;
