@@ -6261,6 +6261,9 @@ body {
   font-weight: 200;
   letter-spacing: 1px;
   background-repeat: repeat;
+    background-repeat-x: repeat;
+    background-repeat-y: repeat;
+  background-repeat: repeat;
   background-position: top left;
   background-image: url("https://i.imgur.com/GVhacP0.jpg"); }
   body.is-boxed {
