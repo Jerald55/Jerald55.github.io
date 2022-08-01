@@ -6548,8 +6548,8 @@ a.btn[disabled] {
     .open > .btn-tabs.dropdown-toggle:focus,
     .open > .btn-tabs.dropdown-toggle.focus {
       color: #F7F7F7;
-      background-color: #b52616;
-      border-color: #b52616; }
+      background-color: #E84A38;
+      border-color: #E84A38; }
   .btn-tabs.disabled:focus, .btn-tabs.disabled.focus, .btn-tabs:disabled:focus, .btn-tabs:disabled.focus {
     background-color: #F7F7F7;
     border-color: #F7F7F7; }
