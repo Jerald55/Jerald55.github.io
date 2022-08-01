@@ -6506,19 +6506,21 @@ a.btn[disabled] {
   background-color: #E84A38;
   border-color: #E84A38; }
   .btn-brand-alt:hover {
-    color: #1a1a1a;
-    background-color: #F7F7F7;
-    border-color: #F7F7F7; }
+    color: #f7f7f7;
+    background-color: #1a1a1a;
+    border-color: #1a1a1a;
+    }
   .btn-brand-alt:focus, .btn-brand-alt.focus {
     color: #1a1a1a;
     background-color: #E84A38;
     border-color: #E84A38; }
   .btn-brand-alt:active, .btn-brand-alt.active,
   .open > .btn-brand-alt.dropdown-toggle {
-    color: #1a1a1a;
-    background-color: #F7F7F7;
-    border-color: #F7F7F7;
-    background-image: none; }
+    color: #f7f7f7;
+    background-color: #1a1a1a;
+    border-color: #1a1a1a;
+    background-image: none;
+    }
     .btn-brand-alt:active:hover, .btn-brand-alt:active:focus, .btn-brand-alt:active.focus, .btn-brand-alt.active:hover, .btn-brand-alt.active:focus, .btn-brand-alt.active.focus,
     .open > .btn-brand-alt.dropdown-toggle:hover,
     .open > .btn-brand-alt.dropdown-toggle:focus,
