@@ -8726,7 +8726,9 @@ ul.card-listing {
     clip: rect(0, 0, 0, 0);
     border: 0; }
   .menu-item p {
-    margin-bottom: 0; }
+    margin-bottom: 0;
+  color: black;
+  }
 
 .paginator {
   margin-left: auto;
