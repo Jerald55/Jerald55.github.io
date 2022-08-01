@@ -8676,7 +8676,7 @@ ul.card-listing {
   margin-bottom: 2.5rem; }
 
 .menu-section {
-  border: black;
+  border: #1a1a1a;
   border-width: thick;
   border-style: groove;
   margin-bottom: 2.5rem;
@@ -8684,13 +8684,14 @@ ul.card-listing {
   background-color: #f7f7f7;
   color: black;
   font-weight: 400;
-  border-block-color: black;
+  border-block-color: #1a1a1a;
   }
   .menu-section > div {
     margin-bottom: 2.5rem; }
   .menu-section > ul {
     padding-left: 0;
-    list-style: none; }
+    list-style: none;
+  font-weight: 400;}
   .menu-section + .menu-section {
     position: relative;
     z-index: 0;
@@ -8729,7 +8730,7 @@ ul.card-listing {
     border: 0; }
   .menu-item p {
     margin-bottom: 0;
-  color: black;
+  color: #1a1a1a;
   }
 
 .paginator {
@@ -9641,7 +9642,7 @@ _:-webkit-full-screen {
   }
 
 .menu-item__heading {
-  color: #F7F7F7; }
+  color: #1a1a1a; }
 
 input[type=file] {
   max-width: 100%; }
