@@ -939,6 +939,13 @@ button:focus, .btn:focus, .btn.active:focus, .arrow-btn:focus, .site-nav-submenu
 .form-alt .DateInput_fang {
   z-index: 10; }
 
+ p.menu-item__heading {
+    color: #1a1a1a;
+  }
+  .menu-item__heading {
+    color: #1a1a1a;
+}
+
 a:focus,
 button:focus, .btn:focus, .btn.active:focus, .arrow-btn:focus, .site-nav-submenu:focus, .nav-toggle-btn:focus, .form-control:focus, .mapboxgl-ctrl-geocoder--input:focus {
   outline: auto 3px Highlight;
