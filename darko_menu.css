@@ -6151,6 +6151,12 @@ img.mfp-img {
   /**
        * Remove all paddings around the image on small screen
        */
+  p.menu-item__heading {
+    color: #1a1a1a;
+  }
+  .menu-item__heading {
+    color: #1a1a1a;
+}
   .mfp-img-mobile .mfp-image-holder {
     padding-left: 0;
     padding-right: 0; }
@@ -8717,7 +8723,8 @@ ul.card-listing {
   
 .menu-item {
   margin-bottom: 2.5rem; }
-  .menu-item__heading {
+  
+  -item__heading {
     color: #1a1a1a;
     font-family: "Libre Franklin";
     font-size: 1.25rem;
