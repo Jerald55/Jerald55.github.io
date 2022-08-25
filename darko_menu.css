@@ -8710,6 +8710,11 @@ ul.card-listing {
       border-bottom: 3px solid #15131200;
       }
 
+  p.menu-item__heading
+  {
+  color: #1a1a1a;
+  }
+  
 .menu-item {
   margin-bottom: 2.5rem; }
   .menu-item__heading {
