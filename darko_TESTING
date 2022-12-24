@@ -8268,6 +8268,7 @@ background-color: rgba(4,4,4,0.8);}
       -webkit-transform: none;
       -ms-transform: none;
       transform: none; }
+
 .c-split {
     width: 100%;
     background-color: rgba(255,255,255,0);
@@ -8397,7 +8398,6 @@ background-color: rgba(4,4,4,0.8);}
     .c-split__content {
         max-width: 50%
     }
-}
 
 .breadcrumb {
   text-align: left;
