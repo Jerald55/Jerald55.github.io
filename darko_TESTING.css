@@ -9622,6 +9622,95 @@ body {
 .index-template {
   background-image: url(https://i.imgur.com/uxVUo6K.jpg); }
 
+  .index-template .c-split__col:not(.c-split__col--empty):hover {
+    transform: translateX(-10px)
+}
+
+.index-template .c-split:hover .c-split__image {
+    -webkit-transform: scale(1.1, 1.1);
+    -ms-transform: scale(1.1, 1.1);
+    transform: scale(1.1, 1.1)
+}
+
+.index-template .c-one-col--text+.c-split {
+    background-color: #e4ba48;
+    background-image: url("https://images.getbento.com/accounts/f468abc38bf68e2c74a93581297771cf/media/images/46331distressed-texture.png");
+    background-size: contain
+}
+
+.index-template .c-one-col--text+.c-split+.c-split {
+    background-color: #fcc6b0;
+    background-image: url("https://images.getbento.com/accounts/f468abc38bf68e2c74a93581297771cf/media/images/46331distressed-texture.png");
+    background-size: contain
+}
+
+.index-template .c-one-col--text+.c-split+.c-split+.c-split {
+    background-color: #a2bfa2;
+    background-image: url("https://images.getbento.com/accounts/f468abc38bf68e2c74a93581297771cf/media/images/46331distressed-texture.png");
+    background-size: contain
+}
+
+.index-template .c-one-col--text+.c-split+.c-split+.c-split+.c-split {
+    background-color: #dfdaca;
+    background-image: url(https://images.getbento.com/accounts/f468abc38bf68e2c74a93581297771cf/media/images/69974distressed-texture-dark.png?w=1800&fit=max&auto=compress,format&h=1800);
+    background-size: contain
+}
+
+.index-template .c-split:nth-child(odd):before {
+    content: "";
+    display: block;
+    background-image: url(https://images.getbento.com/accounts/f468abc38bf68e2c74a93581297771cf/media/images/32703Broken_Shaker_Illustrations7.png?w=1800&fit=max&auto=compress,format&h=1800);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    height: 85%;
+    width: 100%;
+    position: absolute;
+    left: auto;
+    right: 0;
+    top: auto;
+    bottom: 0;
+    margin: auto;
+    z-index: -1
+}
+
+.index-template .c-split:nth-child(even):before {
+    content: "";
+    display: block;
+    background-image: url(https://images.getbento.com/accounts/f468abc38bf68e2c74a93581297771cf/media/images/3441branch-top.png?w=1800&fit=max&auto=compress,format&h=1800);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    height: 170px;
+    width: 166px;
+    position: absolute;
+    left: auto;
+    right: 50%;
+    top: 0;
+    bottom: auto;
+    margin: auto;
+    z-index: -1
+}
+
+.index-template .c-split:nth-child(even):after {
+    content: "";
+    display: block;
+    background-image: url(https://images.getbento.com/accounts/f468abc38bf68e2c74a93581297771cf/media/images/87162flowers-bottom.png?w=1800&fit=max&auto=compress,format&h=1800);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    height: 285px;
+    width: 237px;
+    position: absolute;
+    left: auto;
+    right: 50%;
+    top: auto;
+    bottom: 0;
+    margin: auto;
+    z-index: -1
+}
+
+
 .btn-brand.disabled:hover, .btn-brand:disabled:hover {
   background-color: #F7F7F7;
   color: #1A1A1A; }
