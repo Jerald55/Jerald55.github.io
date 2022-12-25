@@ -9622,7 +9622,7 @@ body {
 .index-template {
   background-image: url(https://i.imgur.com/uxVUo6K.jpg); }
 
-  .index-template .c-split__col:not(.c-split__col--empty):hover {
+.index-template .c-split__col:not(.c-split__col--empty):hover {
     transform: translateX(-10px)
 }
 
@@ -9709,6 +9709,51 @@ body {
     margin: auto;
     z-index: -1
 }
+
+@media (min-width: 992px) {
+  .index-template .c-split__content {
+        max-width: 60%;
+        margin-left: 1rem
+    }
+  }
+
+  @media (max-width: 1300px) {
+    .index-template .c-split:nth-child(odd):before {
+        height:70%
+    }
+
+    .index-template .c-split:nth-child(even):before {
+        height: 150px
+    }
+
+    .index-template .c-split:nth-child(even):after {
+        height: 250px
+    }
+}
+
+@media (max-width: 1025px) {
+  .index-template .c-split:nth-child(odd):before {
+        height: 60%
+    }
+  }
+
+  @media (max-width: 991px) {
+    .index-template .c-split:nth-child(odd):before {
+        height: 25%
+    }
+
+    .index-template .c-split:nth-child(even):before {
+        display: none
+    }
+
+    .index-template .c-split:nth-child(even):after {
+        height: 145px;
+        width: 121px;
+        right: 0;
+        left: auto
+    }
+  }
+  
 
 
 .btn-brand.disabled:hover, .btn-brand:disabled:hover {
