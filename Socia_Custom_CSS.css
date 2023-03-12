@@ -1,5 +1,7 @@
 @charset "UTF-8";
 
+
+/* BUTTONS */
 a.cta-bar__button.\/.btn.btn-accent {
     margin-right: 0.5rem;
 }
@@ -19,10 +21,16 @@ a.cta-bar__button.\/.btn.btn-accent {
     padding: 0.5rem 1.5rem;
 }
 
+
+/* NAVBAR FADE */
+
 .navbar_transparent {
     background: linear-gradient(rgba(4,4,4,0.9), rgba(0,0,0,0.6), transparent);
     box-shadow: 0 0 5px transparent;
 }
+
+
+/* CHANGING HIGHLIGHTED TEXT COLOR */
 
 .off-canvas .nav-item.is-active .nav-link {
     color: #e84a3a;
@@ -36,6 +44,8 @@ a.cta-bar__button.\/.btn.btn-accent {
         color: #e84a3a
     }
 
+
+/* MENU HEADING CHANGES */
 
 h3.mb-0 {
     background-color: #1a1a1a;
