@@ -71,18 +71,21 @@ h4.h5.\/.mb-0 {
 
     
 /* FOLLOW US CALLOUT */
-    
-a.follow-header-link {
+
+a.btn.btn-accent.\/.follow-custom {
   font-family: "bebas-neue-1","bebas-neue-2","Helvetica Neue","Helvetica",-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
     font-weight: 400;
     line-height: 1.2;
-    color: #E84A38;
     text-transform: uppercase;
     letter-spacing: 1px;
+  font-size: 3rem;
+  padding-left:.5rem;
+  padding-right:.5rem;
+  padding-top:0rem;
+  padding-bottom:0rem;
 }
 
-a.follow-header-link:hover {
-
-    color: #E84A38;
-
+a.btn.btn-accent.\/.follow-custom:hover {
+  background-color:#1a1a1a;
+  color:#f4f4f4;
 }
