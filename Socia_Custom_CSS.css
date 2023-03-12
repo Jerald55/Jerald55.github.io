@@ -89,3 +89,15 @@ a.btn.btn-accent.\/.follow-custom:hover {
   background-color:#1a1a1a;
   color:#f4f4f4;
 }
+
+/* POST DETAILS BG AND TEXT FIX */
+
+    
+article.post_ss.\/.py-6 {
+    background-color: #e4e4e4;
+}
+
+.col-lg-6.\/.py-2.py-lg-0.p.aos-init.aos-animate {
+    color: #1a1a1a;
+    font-weight: 600;
+}
