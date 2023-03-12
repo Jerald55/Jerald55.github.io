@@ -116,6 +116,9 @@ article.post_ss.\/.py-6 {
     padding-top: 0rem !important;
     padding-bottom: 0rem !important;
 }
+    .pt-8, .py-8 {
+    padding-top: 0rem !important;
+}
     
  .group-logos {
     margin-bottom: -2rem;
