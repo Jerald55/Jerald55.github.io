@@ -1,0 +1,15 @@
+
+
+a.cta-bar__button.\/.btn.btn-accent {
+    margin-right: 0.5rem;
+}
+
+.btn.btn-accent {
+    color: rgb(26, 26, 26);
+    background-color: rgb(232, 74, 58);
+}
+
+.btn.btn-accent:hover {
+    color: #1a1a1a;
+    background-color: #f4f4f4;
+}
