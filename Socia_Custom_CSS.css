@@ -7,9 +7,22 @@ a.cta-bar__button.\/.btn.btn-accent {
 .btn.btn-accent {
     color: rgb(26, 26, 26);
     background-color: rgb(232, 74, 58);
+    border: 0px solid currentColor;
 }
 
 .btn.btn-accent:hover {
     color: #1a1a1a;
     background-color: #f4f4f4;
 }
+
+.btn {
+    font-size: 19px;
+    padding: 0.5rem 1.5rem;
+    font-family: "bebas-neue-1","bebas-neue-2","Helvetica Neue","Helvetica",-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    border-radius: 1px;
+    transition: all 0.1s linear;
+}
+
