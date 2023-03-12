@@ -27,3 +27,11 @@ a.cta-bar__button.\/.btn.btn-accent {
 .off-canvas .nav-item.is-active .nav-link {
     color: #e84a3a;
 }
+
+.oo-nav__menu-select.link:hover,.oo-nav__menu-select.link:focus {
+    color: #e84a3a
+}
+
+.navbar__nav__item.is-active .nav-link:not(.btn) {
+        color: #e84a3a
+    }
