@@ -31,6 +31,16 @@ a.cta-bar__button.\/.btn.btn-accent {
     box-shadow: 0 0 5px transparent;
 }
 
+/* NAVBAR closer text desktop only */
+
+@media (min-width: 1280px) {
+  
+nav#navbar {
+  padding-right:7rem;
+  padding-left:7rem;
+}
+  
+
 
 /* CHANGING HIGHLIGHTED TEXT COLOR */
 
