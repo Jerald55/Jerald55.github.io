@@ -16,17 +16,14 @@ a.cta-bar__button.\/.btn.btn-accent {
 }
 
 .btn {
-    font-size: 19px;
     padding: 0.5rem 1.5rem;
-    font-family: "bebas-neue-1","bebas-neue-2","Helvetica Neue","Helvetica",-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-    font-weight: 400;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    border-radius: 1px;
-    transition: all 0.1s linear;
 }
 
 .navbar_transparent {
     background: linear-gradient(rgba(4,4,4,0.9), rgba(0,0,0,0.6), transparent);
     box-shadow: 0 0 5px transparent;
+}
+
+.off-canvas .nav-item.is-active .nav-link {
+    color: #e84a3a;
 }
