@@ -90,8 +90,8 @@ a.btn.btn-accent.\/.follow-custom:hover {
   color:#f4f4f4;
 }
 
+    
 /* POST DETAILS BG AND TEXT FIX */
-
     
 article.post_ss.\/.py-6 {
     background-color: #e4e4e4;
@@ -102,6 +102,9 @@ article.post_ss.\/.py-6 {
     font-weight: 600;
 }
     
-    a.footer-powered {
+    
+/* REMOVE POWERED BY */
+
+   a.footer-social-icon.\/.footer-powered.\/ {
     font-size: 0px;
 }
