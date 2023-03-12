@@ -35,3 +35,14 @@ a.cta-bar__button.\/.btn.btn-accent {
 .navbar__nav__item.is-active .nav-link:not(.btn) {
         color: #e84a3a
     }
+
+
+h3.mb-0 {
+    background-color: #1a1a1a;
+    color: #f4f4f4;
+}
+
+h4.h5.\/.mb-0 {
+    font-size: 3rem;
+    color: #e84a38;
+}
