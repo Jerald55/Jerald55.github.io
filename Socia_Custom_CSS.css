@@ -18,9 +18,22 @@ a.cta-bar__button.\/.btn.btn-accent {
 }
 
 .btn {
-    padding: 0.5rem 1rem;
+    padding: 0.35rem 1rem;
     border-radius: 0px;
 
+}
+
+a.btn.btn-tabs {
+    color: #F7F7F7;
+    background-color: transparent;
+    border-color: #F7F7F7;
+    border-width: 0.2rem;
+}
+
+a.btn.btn-tabs:hover {
+    color: #1A1A1A;
+    background-color: #F7F7F7;
+    border-color: #F7F7F7;
 }
 
 
@@ -113,7 +126,7 @@ article.post_ss.\/.py-6 {
 
     
   .pt-10, .py-10 {
-    padding-top: 0.5rem !important;
+    padding-top: 1rem !important;
     padding-bottom: 0rem !important;
 }
     .pt-8, .py-8 {
