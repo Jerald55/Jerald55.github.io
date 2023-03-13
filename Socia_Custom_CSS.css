@@ -125,14 +125,6 @@ article.post_ss.\/.py-6 {
  /* SHORTEN FOOTER */
 
     
-  .pt-10, .py-10 {
-    padding-top: 1rem !important;
-    padding-bottom: 0rem !important;
-}
-    .pt-8, .py-8 {
-    padding-top: 0rem !important;
-}
-    
  .group-logos {
     margin-bottom: -2rem;
 }
