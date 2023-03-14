@@ -138,3 +138,16 @@ article.post_ss.\/.py-6 {
    .row.pt-8.justify-content-center {
     padding-top: -2rem;
 }
+    
+    
+     /* TIDY AND CENTER MENU FLOATING */
+
+    .oo-nav__item {
+    letter-spacing: 1px;
+    display: inline-block;
+}
+    
+    .oo-nav__list {
+    display: inline-block;
+
+}
