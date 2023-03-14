@@ -145,9 +145,10 @@ article.post_ss.\/.py-6 {
     .oo-nav__item {
     letter-spacing: 1px;
     display: inline-block;
+    text-align: center;
 }
     
     .oo-nav__list {
     display: inline-block;
-
+    text-align: center;
 }
