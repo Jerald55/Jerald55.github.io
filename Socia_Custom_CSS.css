@@ -1,5 +1,16 @@
 @charset "UTF-8";
 
+h4.h5.\/.mb-0 {
+    text-align: left;
+    font-size: 3rem;
+    color: #e84a3a
+}
+
+  p.mb-0.\/.text-sm {
+    font-weight: 600; 
+    font-size: 1rem; 
+    text-align: left;
+}
 
 /* BUTTONS */
 a.cta-bar__button.\/.btn.btn-accent {
