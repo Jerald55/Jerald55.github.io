@@ -73,19 +73,31 @@ nav#navbar {
 /* MENU HEADING CHANGES */
     
     h4.h5.\/.mb-0 {
-    font-size: 3rem;
+    font-size: 5rem;
     color: #e84a38;
+    text-align: left;
 }
 
 h3.mb-0 {
     background-color: #1a1a1a;
     color: #f4f4f4;
 }
-
-h4.h5.\/.mb-0 {
-    font-size: 3rem;
-    color: #e84a38;
+    
+    h3.menus-item__title.\/.h5 {
+    font-size: 1.75rem;
 }
+
+    p.mb-0.\/.text-sm {
+    font-weight: 600;
+    font-size: 1rem;
+    text-align: left;
+}
+    
+    h5 / mb-0 {
+    font-size: 5rem;
+    color: #e84a38;
+    text-align: left;
+    }
 
     
     
