@@ -1,5 +1,10 @@
 @charset "UTF-8";
 
+h4.h5.\/.mb-0 {
+    text-align: left;
+    font-size: 3rem;
+}
+
 
 /* BUTTONS */
 a.cta-bar__button.\/.btn.btn-accent {
