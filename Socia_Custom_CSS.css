@@ -90,11 +90,9 @@ nav#navbar {
 }
 
 h3.mb-0 {
-    background-color: #1a1a1a;
-    color: #f4f4f4;
-    border-style: solid;
-    border-color: #1a1a1a;
-    border-radius: 1rem;
+    border-bottom: 2px solid #1a1a1a;
+    padding-bottom: 5px;
+    font-size: 3rem;
 }
     
     h3.menus-item__title.\/.h5 {
