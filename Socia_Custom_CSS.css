@@ -124,11 +124,13 @@ a.btn.btn-accent.\/.follow-custom {
   padding-right:.5rem;
   padding-top:0rem;
   padding-bottom:0rem;
+ border-radius: 0.6rem;
 }
 
 a.btn.btn-accent.\/.follow-custom:hover {
   background-color:#1a1a1a;
   color:#f4f4f4;
+    
 }
 
     
