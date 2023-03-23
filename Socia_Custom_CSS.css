@@ -1,10 +1,5 @@
 @charset "UTF-8";
 
-h4.h5.\/.mb-0 {
-    text-align: left;
-    font-size: 3rem;
-}
-
 
 /* BUTTONS */
 a.cta-bar__button.\/.btn.btn-accent {
@@ -103,7 +98,7 @@ h3.mb-0 {
     
 
 
-    .section-dark h4, .section-dark .h4, {
+    .section-dark h4, .section-dark .h5, {
     font-size: 5rem;
     color: #e84a38;
     text-align: left;
