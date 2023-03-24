@@ -199,3 +199,10 @@ article.post_ss.\/.py-6 {
     align-items: center;
     background-color: purple;
 }
+
+    
+/* Custom Fresh Paragraph */
+
+    p.custom_fresh_paragraph.fr-tag {
+    font-size: 1.5rem;
+}
