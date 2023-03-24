@@ -191,3 +191,11 @@ article.post_ss.\/.py-6 {
     div#location_id_2101 {
     justify-content: center;
 }
+
+
+
+.focus-blocks__item.aos-init.aos-animate.\/.tony_focus_custom {
+    display: flex;
+    align-items: center;
+    background-color: purple;
+}
