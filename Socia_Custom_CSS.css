@@ -201,8 +201,13 @@ article.post_ss.\/.py-6 {
 }
 
     
+/* Online Order MODAL HEADER */
+    .choose-ordering__radio:checked+label.choose-ordering__tab {
+    color: #f4f4f4;
+    font-family: 'bebas-neue-1';
+}
+    
 /* Custom Fresh Paragraph */
-
     p.custom_fresh_paragraph.fr-tag {
     font-size: 1.5rem;
 }
