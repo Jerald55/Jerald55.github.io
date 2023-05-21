@@ -31,7 +31,7 @@ a.cta-bar__button.\/.btn.btn-accent {
 .btn {
     padding: 0.35rem 1rem;
     border-radius: 0px;
-
+    letter-spacing: 0px;
 }
 
 a.btn.btn-tabs {
@@ -211,3 +211,9 @@ article.post_ss.\/.py-6 {
     p.custom_fresh_paragraph.fr-tag {
     font-size: 1.5rem;
 }
+    
+/* Popup X Colroing */
+
+    .sociavore-icon {
+        color: #f4f4f4;
+    }
